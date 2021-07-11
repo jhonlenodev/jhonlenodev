@@ -4,7 +4,7 @@
 
 ### Opa, tudo certo?
 Meu nome é Jhon Leno, eu sou Dev Backend
-- 👨🏻‍💻 Back-End Pleno.
+
 - 🔍 Atualmente aberto a novas oportunidades.
 - 📰 Trabalho com Python, Django
 - 📡 Neste momento busco colaborar com projetos Backend.
